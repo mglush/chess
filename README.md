@@ -1,2 +1,2 @@
-# Chess Engine
-Creating a chess game, as well as a bot that plays the game in C++.
+# Chess (C++, Qt)
+Creating a chess game and a bot that plays the game in C++.
